@@ -1,0 +1,85 @@
+.app__item{
+    width: 700px;
+    height: 100px;
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.app__id{
+    margin: 0;
+    font-family: sans-serif;
+    font-size: 22px;
+    color: #000;
+    margin-right: 10px;
+}
+.app__name{
+    margin: 0;
+    font-family: sans-serif;
+    font-size: 22px;
+    color: #000;
+    margin-right: 10px;
+}
+.app__arrow{
+    margin: 0;
+    font-size: 22px;
+    font-family: sans-serif;
+    margin-right: 10px;
+}
+.app__price{
+    margin: 0;
+    font-family: sans-serif;
+    font-size: 22px;
+    color: #000;
+    margin-right: 10px;
+}
+.app__inner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 25px;
+}
+.app__left{
+    display: flex;
+}
+.app__right{
+    display: flex;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.app__title{
+    margin: 0;
+    font-family: sans-serif;
+    font-size: 18px;
+    color: #a4a4a4;
+    margin-top: 25px;
+}
+.app__arrow_top{
+    margin: 0;
+    font-size: 22px;
+    font-family: sans-serif;
+    margin-right: 10px;
+    color: green;
+}
+.app__price_right{
+    margin: 0;
+    font-family: sans-serif;
+    font-size: 22px;
+    color: green;
+    margin-right: 10px;
+}
+.app__arrow_top_c{
+    color: red;
+    margin: 0;
+    font-size: 22px;
+    font-family: sans-serif;
+    margin-right: 10px;
+}
+.app__price_right_c{
+    color: red;
+    margin: 0;
+    font-family: sans-serif;
+    font-size: 22px;
+    margin-right: 10px;
+}

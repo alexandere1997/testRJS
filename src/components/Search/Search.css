@@ -1,0 +1,19 @@
+.app__input{
+    width: 700px;
+    height: 40px;
+    margin-bottom: 40px;
+    border-radius: 8px;
+    border: none;
+    font-family: sans-serif;
+    font-size: 24px;
+    color: #a4a4a4;
+    padding-left: 15px;
+}
+.app__search h3 {
+    color: #fff;
+    font-size: 32px;
+    font-family: sans-serif;
+    margin-top: 50px;
+    margin-bottom: 60px;
+    text-align: center;
+}
