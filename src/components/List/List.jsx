@@ -77,7 +77,6 @@ export default class List extends Component {
             </div>
             )
         } )
-        //const visibleItem = this.search(arr, term)
         return (
         <div className="app__lists">
             < Search onSearchChange={this.onSearchChange}/>

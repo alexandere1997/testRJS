@@ -1,0 +1,84 @@
+.app__wrap{
+    width: 400px;
+    height: 100px;
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 20px;
+}
+.app__lines{
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 100px;
+    background-color: #fff;
+    font-size: 26px;
+    color: #2696FE;
+}
+.app__konvert{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1000px;
+}
+.app__names{
+    display: flex;
+    align-items: center;
+}
+.app__wrapper{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 25px;
+}
+.app__button{
+    margin: 0;
+    cursor: pointer;
+    color: #a4a4a4;
+}
+.app__inputs{
+    border: none;
+    border-bottom: 1px solid #000;
+    width: 140px;
+    font-family: sans-serif;
+    font-size: 22px;
+    color: #000;
+}
+.app__listss{
+    width: 110%;
+    height: auto;
+    background-color: #fff;
+    margin-top: 14px;
+    margin-left: -20px;
+    display: none;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+.app__namess{
+    margin: 0;
+    font-family: sans-serif;
+    font-size: 22px;
+    color: #000;
+    margin-left: 20px;
+    cursor: pointer;
+    margin-right: 20px;
+    z-index: 1;
+}
+.app__act {
+    display: block;
+}
+.app__arrow_right{
+    margin-left: -10px;
+    cursor: pointer;
+}
+.app__arrow_left{
+    cursor: pointer;
+}
+.app__add{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+}

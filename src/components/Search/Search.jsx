@@ -16,7 +16,7 @@ export default class Search extends Component {
             <div className="app__search">
                 <h3>Поиск валют</h3>
                 <input className="app__input" type="text"
-                    placeholder="type to search" 
+                    placeholder="Поиск по названию валюты" 
                     value={this.state.term}
                     onChange={this.onSearchChange} />
             </div>

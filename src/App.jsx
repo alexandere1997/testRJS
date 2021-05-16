@@ -7,7 +7,6 @@ import {BrowserRouter as Router, Route} from "react-router-dom";
 import { Redirect } from "react-router"
 import { Link } from "react-router-dom";
 
-
 export default class App extends Component {
 
 
@@ -29,7 +28,6 @@ export default class App extends Component {
 
   render() {
     const {arr} = this.state;
-    console.log(arr)
     return(
       <Router>
         <div className="app__header">
